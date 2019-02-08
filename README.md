@@ -22,11 +22,11 @@ Programele ```.asm``` se folosesc macro-urile de citire de la ```stdin``` si scr
 
 - Lab 0x9: interactiunea C - Assembly
 
-- Lab 0xA: TODO
+- Lab 0xA: buffer overflow
 
-- Lab 0xB: TODO
+- Lab 0xB: Optimizari
 
-- Lab 0xC: TODO
+- Lab 0xC: ARM Assembly
 
 ## Resurse
 - Introduction to assembly language programming for pentium and RISC processors, Sivarama Dandamudi
@@ -36,12 +36,17 @@ Programele ```.asm``` se folosesc macro-urile de citire de la ```stdin``` si scr
 - [Comenzi GDB](http://visualgdb.com/gdbreference/commands/);
 
 ## Teme
-- Tema 1 - Forma poloneza postfixata: (9.11.2018 - 23.11.2018)
+- Tema 1 - Forma poloneza postfixata
 
-- Tema 2 - ???: TODO
+- Tema 2 - (De)criptari bazate pe `xor`
 
-- Tema 3 - ???: TODO
+- Tema 3 - Optimizari Assembly
 
 ## Snippet-uri
-- al n-lea termen Fibonacci cu exponentiere logaritmica de matrice: incercari progresive de optimizare
-- KMP: incercari de a eficientiza unele constructii `if`-`else` si "`for`"-uri
+- al n-lea termen Fibonacci cu exponentiere logaritmica de matrice
+
+- KMP
+
+- subiectele de examen de la seria *CB*
+
+- modelele de examen oferite pe [ocw](https://ocw.cs.pub.ro/courses/iocla/reguli-notare#examen_final)
