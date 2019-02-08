@@ -82,7 +82,7 @@ Laburi IOCLA 2018
 
 - 0-fibo
 
-- 1-hello-world
+- l1-hello-world
 
 - 2-test
 
@@ -123,3 +123,27 @@ Laburi IOCLA 2018
 - 8-c-buffer-overflow
 
 - 9-overflow-in-binary
+
+## Lab0xB - optimizari
+
+- 1-2-loop unrolling
+
+- 3-flaguri de optimizare
+
+- 4-string-instructions
+
+- 5-profiling
+
+- 6-optimize-assembly
+
+## Lab0xC - ARM Assembly
+
+- 1-install-toolchain
+
+- 2-mul-sum
+
+- 3-mem-addr
+
+- 4-flags
+
+- 5-strings

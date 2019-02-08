@@ -31,6 +31,7 @@ main:
     sub sp, r11, #0
     pop {r11, pc}
 
+
 // TODO 1: implement strlen
 strlen:
     push {r11}
@@ -52,6 +53,7 @@ return_strlen:
     sub sp, r11, #0
     pop {r11}
     bx lr
+
 
 // TODO 2: implement starts_with
 starts_with:
@@ -119,6 +121,7 @@ next_char:
 return_substr:
     sub sp, r11, #0
     pop {r4, r5, r6, r11, pc}
+
 
 .data
 str:
