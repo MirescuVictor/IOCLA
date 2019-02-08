@@ -12,4 +12,4 @@ Toate temele vor fi puse pe git **dupa deadline**. Sper sa nu apara prelungiri d
 
 ## Tema 3 - optimizari
 
-- TODO;
+- pornind de la un binar dat, se va optimiza setul de functii `mystery` o data pentru un timp de executie cat mai mic si apoi pentru o dimensiune minima
