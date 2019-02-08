@@ -1,6 +1,6 @@
 # Teme
 
-Toate temele vor fi puse pe git **dupa deadline**. Sper sa nu apara prelungiri de deadline de care sa nu stiu...
+Toate temele au fost puse pe git **dupa deadline**.
 
 ## Tema 1 - evaluare de expresie in forma poloneza postfixata
 
