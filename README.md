@@ -50,3 +50,7 @@ Programele ```.asm``` se folosesc macro-urile de citire de la ```stdin``` si scr
 - subiectele de examen de la seria *CB*
 
 - modelele de examen oferite pe [ocw](https://ocw.cs.pub.ro/courses/iocla/reguli-notare#examen_final)
+
+## Concluzie
+
+fuse si se duse...
