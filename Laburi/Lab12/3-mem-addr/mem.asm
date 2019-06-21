@@ -9,7 +9,7 @@ main:
 
 print_all:
     ldr r5, =nums
-    subs r4, #1
+    sub r4, #1
     add r5, r4
     ldrsb r1, [r5]
 
@@ -17,7 +17,7 @@ print_all:
     ldr r0, =output
     bl printf
 
-    cmp r4, #0
+    tst r4, r4
     bne print_all
 
 return:

@@ -7,7 +7,6 @@ main:
     // initialization
     mov r0, #10           // n
     and r1, r1, #0        // sum
-    mov r2, #1            // current number
 
     // TODO Compute sum of squares; place result in r1
 compute_sum:
